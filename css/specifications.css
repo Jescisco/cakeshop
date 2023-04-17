@@ -1,0 +1,67 @@
+.nav-bg-color{
+	background: #d8e2dc;
+}
+.nav-txt-color{
+	color: #9d8189;
+}
+.container-bg-color{
+	background: #d8e2dc;
+}
+.footer-bg-color{
+	background: #212121;
+	/*min-height: 61px;*/
+}
+.footer-txt-color{
+	color: #EEEEEE;
+}
+.wall-bg-color{
+	background: #ffe5d9;
+	min-height: 88vh;
+}
+.presentacion{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+.login-wall-bg{
+ background: #E4E4E4;
+ height: 660px;
+}
+.formularios-modal{
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+}
+.formularios-button{
+	background: #9d8189;
+	margin: 5px 15%;
+	border: hidden;
+}
+.formularios-button:hover{
+	background: #f4acb7;
+}
+.input_style_text{
+	width: 130px;
+	height: auto;
+	background: #434343;
+	color: #EEEEEE;
+	white-space: initial;
+}
+.input_style_date{
+	width: 110px;
+	height: auto;
+	background: #434343;
+	color: #EEEEEE;
+}
+.input_style_number{
+	width: 80px;
+	height: auto;
+	background: #434343;
+	color: #EEEEEE;
+}
+.iconos{
+	fill: #EEEEEE !important;
+	display: grid;
+	justify-items: center;
+}
+
